@@ -1,5 +1,5 @@
 # Correct bootanimation size for the screen
-TARGET_SCREEN_HEIGHT := 854
+TARGET_SCREEN_HEIGHT := 800
 TARGET_SCREEN_WIDTH := 480
 
 # Inherit some common CM stuff.
