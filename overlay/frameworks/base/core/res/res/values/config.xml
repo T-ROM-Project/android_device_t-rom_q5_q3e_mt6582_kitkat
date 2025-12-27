@@ -22,7 +22,7 @@
     <bool name="config_cellBroadcastAppLinks">false</bool>
 
     <!-- Whether a software navigation bar should be shown. NOTE: in the future this may be
-         autodetected from the Configuration. -->
+         autodetected from the Configuration. Palitenfan123:Dont change because of the new no Hardkeys version of Q models-->
     <bool name="config_showNavigationBar">true</bool>
 
     <!-- List of regexpressions describing the interface (if any) that represent tetherable
@@ -54,8 +54,8 @@
     <!-- If this is true, the IME will be shown at screen on for keyguard password view -->
     <bool name="kg_show_ime_at_screen_on">false</bool>
 
-    <!-- Allow the menu hard key to be disabled in LockScreen on some devices -->
-    <bool name="config_disableMenuKeyInLockScreen">true</bool>
+    <!-- Allow the menu hard key to be disabled in LockScreen on some devices palutenfan123 : Useless but set it to true-->
+    <bool name="config_disableMenuKeyInLockScreen">false</bool>
 
     <!-- If this is true, the screen will come on when you plug/unplug usb/power/whatever. -->
     <bool name="config_unplugTurnsOnScreen">true</bool>
@@ -264,8 +264,8 @@
     <!-- Boolean indicating whether the wifi chipset has background scan support -->
     <bool translatable="false" name="config_wifi_background_scan_support">false</bool>
 
-    <!-- Whether to enable auto provisioning the app for new SIM card on boot.-->
-    <bool name="config_auto_provision_enable">true</bool>
+    <!-- Timmkoo has no Sim Card Slot.-->
+    <bool name="config_auto_provision_enable">false</bool>
 
     <!-- LED Flashlight -->
     <bool name="config_enableTorch">true</bool>
