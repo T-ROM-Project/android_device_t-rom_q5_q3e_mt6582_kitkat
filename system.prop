@@ -1,5 +1,5 @@
 #
-# system.prop for sprout
+# system.prop for T-ROM Project 2025-2026 (c)
 #
 rild.libpath=/system/lib/mtk-ril.so
 rild.libargs=-d /dev/ttyC0
@@ -25,7 +25,8 @@ mediatek.wlan.ctia=0
 #
 wifi.tethering.interface=ap0
 #
-ro.sf.lcd_density=240
+ro.sf.lcd_density=210
+#More UI,palutenfan123
 ro.opengles.version=131072
 
 wifi.direct.interface=p2p0
