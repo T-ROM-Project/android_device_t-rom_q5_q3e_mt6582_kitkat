@@ -18,5 +18,6 @@
 -->
 
 <resources>
-    <bool name="useCameraInterface">true</bool>
+    <bool name="useCameraInterface">false</bool>
+   <!--Timmkoo Q Models dont have a Camera ,palutenfan123-->
 </resources>
